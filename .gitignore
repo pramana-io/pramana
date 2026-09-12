@@ -1,0 +1,13 @@
+
+# Editor and OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Go workspace (local only)
+go.work
+go.work.sum
+
+# Compiled binary
+/pramana
